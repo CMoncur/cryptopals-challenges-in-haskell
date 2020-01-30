@@ -1,2 +1,1 @@
-# cryptopals-challenges-in-haskell
-A repository to store my Haskell solutions to the Cryptopals challenges
+# Cody's Cryptopals Challenge Solutions in Haskell
